@@ -135,7 +135,6 @@
     <string name="dialog_title_finishing_media_upload">Media upload beëindigen</string>
     <string name="dialog_message_uploading_media">Aan het uploaden…</string>
     <string name="dialog_download_image">Download</string>
-    <string name="dialog_message_follow_request">Verzoek van een volger in de wachtrij: wachtend op hun antwoord</string>
     <string name="dialog_unfollow_warning">Deze account ontvolgen?</string>
 
     <string name="visibility_public">Publiek: op publieke tijdlijnen posten</string>
@@ -202,11 +201,11 @@
 
     <string name="pref_status_text_size">Tekstgrootte status</string>
 
-    <string-array name="status_text_size_names">
-        <item>Klein</item>
-        <item>Medium</item>
-        <item>Groot</item>
-    </string-array>
+    <!--<string-array name="status_text_size_names">-->
+        <!--<item>Klein</item>-->
+        <!--<item>Medium</item>-->
+        <!--<item>Groot</item>-->
+    <!--</string-array>-->
 
     <string name="notification_channel_mention_name">Nieuwe vermeldingen</string>
     <string name="notification_channel_mention_descriptions">Meldingen over nieuwe vermeldingen</string>

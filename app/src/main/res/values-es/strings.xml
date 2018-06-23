@@ -140,7 +140,6 @@
     <string name="dialog_title_finishing_media_upload">Terminando de subir multimedia</string>
     <string name="dialog_message_uploading_media">Subiendo…</string>
     <string name="dialog_download_image">Descargar</string>
-    <string name="dialog_message_follow_request">Solicitud enviada: esperando respuesta</string>
     <string name="dialog_unfollow_warning">¿Dejar de seguir esta cuenta?</string>
 
     <string name="visibility_public">Público: Mostrar en historias públicas</string>
@@ -207,11 +206,11 @@
 
     <string name="pref_status_text_size">Tamaño del texto</string>
 
-    <string-array name="status_text_size_names">
-        <item>Pequeño</item>
-        <item>Medio</item>
-        <item>Grande</item>
-    </string-array>
+    <!--<string-array name="status_text_size_names">-->
+        <!--<item>Pequeño</item>-->
+        <!--<item>Medio</item>-->
+        <!--<item>Grande</item>-->
+    <!--</string-array>-->
 
     <string name="notification_channel_mention_name">Nuevas menciones</string>
     <string name="notification_channel_mention_descriptions">Notificaciones de nuevas menciones</string>

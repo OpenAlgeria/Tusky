@@ -136,7 +136,6 @@
     <string name="dialog_title_finishing_media_upload">正在结束上传…</string>
     <string name="dialog_message_uploading_media">正在上传…</string>
     <string name="dialog_download_image">下载</string>
-    <string name="dialog_message_follow_request">关注请求已发送，等待对方回复</string>
     <string name="dialog_unfollow_warning">不再关注此用户？</string>
 
     <string name="visibility_public">公开：所有人可见，并会出现在公共时间轴上</string>
@@ -203,11 +202,11 @@
 
     <string name="pref_status_text_size">字体大小</string>
 
-    <string-array name="status_text_size_names">
-        <item>小</item>
-        <item>中</item>
-        <item>大</item>
-    </string-array>
+    <!--<string-array name="status_text_size_names">-->
+        <!--<item>小</item>-->
+        <!--<item>中</item>-->
+        <!--<item>大</item>-->
+    <!--</string-array>-->
 
     <string name="notification_channel_mention_name">被提及</string>
     <string name="notification_channel_mention_descriptions">当有用户在嘟文中提及我时</string>

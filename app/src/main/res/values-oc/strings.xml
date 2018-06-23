@@ -144,7 +144,6 @@
     <string name="dialog_title_finishing_media_upload">Finalizacion del mandadís del mèdia</string>
     <string name="dialog_message_uploading_media">Mandadís...</string>
     <string name="dialog_download_image">Telecargar</string>
-    <string name="dialog_message_follow_request">Demanda d’abonament en espèra : responsas esperadas</string>
     <string name="dialog_unfollow_warning">Volètz quitar de seguir aqueste compte ?</string>
 
     <string name="visibility_public">Publica : es visibla a la cronologia publica</string>
@@ -212,11 +211,11 @@
 
     <string name="pref_status_text_size">Talha de text de l\'estatut</string>
 
-    <string-array name="status_text_size_names">
-        <item>Pichona</item>
-        <item>Mejana</item>
-        <item>Granda</item>
-    </string-array>
+    <!--<string-array name="status_text_size_names">-->
+        <!--<item>Pichona</item>-->
+        <!--<item>Mejana</item>-->
+        <!--<item>Granda</item>-->
+    <!--</string-array>-->
 
     <string name="notification_channel_mention_name">Mencions nòvas</string>
     <string name="notification_channel_mention_descriptions">Notificacions de mencions noves</string>
@@ -332,5 +331,7 @@
     <string name="license_blobmoji">Blobmoji es jos licéncia dels tèrmes d’Apache license 2.0</string>
     <string name="license_twemoji">Twemoji es jos licéncia CC-BY 4.0 - https://creativecommons.org/licenses/by/4.0/</string>
     <string name="download_failed">Fracàs del telecargament</string>
+    <string name="reblog_private">Partejar al public d’origina</string>
+    <string name="unreblog_private">Quitar de partejar</string>
 
 </resources>

@@ -140,7 +140,6 @@
     <string name="dialog_title_finishing_media_upload">تتمة رفع الوسائط</string>
     <string name="dialog_message_uploading_media">جاري الرفع ...</string>
     <string name="dialog_download_image">تنزيل</string>
-    <string name="dialog_message_follow_request">طلب المتابعة معلق : في إنتظار الرد</string>
     <string name="dialog_unfollow_warning">هل تود إلغاء متابعة هذا الحساب ؟</string>
 
     <string name="visibility_public">عمومي : ينشر على الخيوط العمومية</string>
@@ -207,11 +206,11 @@
 
     <string name="pref_status_text_size">حجم الخط</string>
 
-    <string-array name="status_text_size_names">
-        <item>صغير</item>
-        <item>متوسط</item>
-        <item>كبير</item>
-    </string-array>
+    <!--<string-array name="status_text_size_names">-->
+        <!--<item>صغير</item>-->
+        <!--<item>متوسط</item>-->
+        <!--<item>كبير</item>-->
+    <!--</string-array>-->
 
     <string name="notification_channel_mention_name">إشارات جديدة</string>
     <string name="notification_channel_mention_descriptions">الإخطارات عندما يشار إليك</string>

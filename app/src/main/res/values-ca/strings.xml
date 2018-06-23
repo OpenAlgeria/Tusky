@@ -132,7 +132,6 @@
     <string name="dialog_title_finishing_media_upload">S\'està finalitzant la pujada de materila multimèdia</string>
     <string name="dialog_message_uploading_media">S\'està pujant...</string>
     <string name="dialog_download_image">Baixa</string>
-    <string name="dialog_message_follow_request">Follow request pending: awaiting their response</string>
     <string name="dialog_unfollow_warning">Vols deixar de seguir aquest compte?</string>
 
     <string name="visibility_public">Pública: és visible a la cronologia pública</string>
@@ -184,11 +183,11 @@
 
     <string name="pref_status_text_size">Mida de text de l\'estat</string>
 
-    <string-array name="status_text_size_names">
-        <item>Petita</item>
-        <item>Mitjana</item>
-        <item>Gran</item>
-    </string-array>
+    <!--<string-array name="status_text_size_names">-->
+        <!--<item>Petita</item>-->
+        <!--<item>Mitjana</item>-->
+        <!--<item>Gran</item>-->
+    <!--</string-array>-->
     
     <string name="notification_channel_mention_name">Mencions noves</string>
     <string name="notification_channel_mention_descriptions">Notificacions sobre mencions noves</string>
